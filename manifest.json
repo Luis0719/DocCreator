@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Doc creator",
+  "version": "1.0",
+  "description": "Generate an url that allows you to create drive docs from templates..",
+  "action": {
+    "default_popup": "index.html"
+  }
+}
